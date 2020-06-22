@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Final.Tesoem</string>
+    <string name="tproyecto">Proyecto</string>
+    <string name="tmatricula">Matricula:</string>
+    <string name="tnombre">Nombre:</string>
+    <string name="tpromedio">Promedio Final:</string>
+    <string name="tcorreo">Correo:</string>
+    <string name="bgrabar">Grabar</string>
+    <string name="lblmatricula">Matricula</string>
+    <string name="lblnombre">Nombre</string>
+    <string name="lblcorreo">Correo</string>
+    <string name="lblpromedio">Promedio</string>
+    <string name="isc">ISC</string>
+    <string name="tJson">Json</string>
+    <string name="rJson">Resultado</string>
+</resources>
